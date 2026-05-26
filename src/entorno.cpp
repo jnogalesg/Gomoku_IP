@@ -49,13 +49,13 @@ const int ANCHO_VENTANA  =  TAMANO_CASILLA* MAX_CASILLAS;
 const int ALTO_VENTANA   = 800;
 
 
- int ORIGEN_X     = 0 ; // origen de la rejilla
+ int ORIGEN_X     = 0 ; // 5 // origen de la rejilla
 const int ORIGEN_Y     = 50 ;  // Origen de la rejilla
 
 const int RADIO = TAMANO_CASILLA/4;
 
 // definicion de las constantes para posicionar los marcadores
-const int FILA_MARCADOR = 140;
+const int FILA_MARCADOR = 140; //210;
 const int COL_MARCADOR  = 10;
 
 

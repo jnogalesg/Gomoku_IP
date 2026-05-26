@@ -183,7 +183,7 @@ void entornoMarcarLinea (int fila, int columna);
 */
 void entornoMarcadorNumPiezas(int numNegras, int numBlancas);
 
-
+// TODO  Yo quitaría esta función- SEGURO SE QUITA ESTA AMPLIACIÓN??
 /*
  *	PRE: tam: tamaño actual del tablero, antes que sea añanda la nueva fila y columna
  *	 10 <= tam <= MAX_TAMANO
