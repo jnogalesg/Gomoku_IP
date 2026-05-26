@@ -1,0 +1,10 @@
+19
+0
+5
+30
+
+1º línea: dimensión del tablero. Puede ser desde 5x5 a 19x19
+2º línea: quién comienza el turno: 0 negra, 1 blanca
+3º línea: longitud de la cadena para ganar
+4º línea: número inicial de piezas para cada color (ampliación)
+
